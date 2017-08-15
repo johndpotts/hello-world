@@ -1,6 +1,4 @@
 # hello-world
-//All I know is that I know nothing.
-I am a complete beginner at programming, but am starting an adventure in learning.
-My goal is to be a life-long learner, and also to be able to tweak more things 
-when it comes to technical needs in my job.
-I'm excited to get started!
+> I've come a long way in the last 6 weeks. I have a very good handle on beginning JS, am starting to wrap my head around python, and even know **markdown**!
+
+Goals for next 6 weeks: finish freecodecamp projects and start learning the back end.
